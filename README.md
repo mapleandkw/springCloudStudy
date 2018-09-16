@@ -1,2 +1,2 @@
 # springCloudStudy
-spring cloud study by ricky
+spring cloud study by ricky.They are just same simple example.
